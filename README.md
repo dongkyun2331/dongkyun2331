@@ -1,4 +1,4 @@
-[dongkyun2331@gmail.com](mailto:dongkyun2331@gmail.com)
+```dongkyun2331@gmail.com```
 
 <!-- <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dongkyun2331&show_icons=true&theme=vision-friendly-dark"> -->
